@@ -11,4 +11,7 @@ exec > "$log_file" 2>&1
 
 echo "Script runs successfully at $(date)"
 
+# Your script logic here
+
+
 echo "Script didn't runs successfully at $(date)"
